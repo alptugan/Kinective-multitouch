@@ -1,0 +1,15 @@
+<Widget>
+    <Kind>5</Kind>
+    <Name>Y OFFSET</Name>
+    <Value>252</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>MIN BLOB SIZE</Name>
+    <Value>1</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>MAX BLOB SIZE</Name>
+    <Value>6000</Value>
+</Widget>
